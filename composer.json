@@ -1,5 +1,4 @@
 {
-    "name": "school-erp",
     "description": "A secure, modular school ERP system using CodeIgniter 3.1.13 and PHP 8.4.2.",
     "type": "project",
     "require": {
